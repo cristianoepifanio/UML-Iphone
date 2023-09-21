@@ -1,7 +1,7 @@
 import interfaces.Iphone;
 
 /**
- * Iphone
+ * Iphone1
  */
 public class Iphone1 {
     public static void main(String[] args) {
